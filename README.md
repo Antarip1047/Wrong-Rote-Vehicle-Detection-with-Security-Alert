@@ -32,13 +32,11 @@ Follow the instructions to set up YOLO v8 from the [official repository](https:/
 ## Project Structure
 
 wrong-route-vehicle-detection/
-- config.json        # Configuration file for system parameters
-- detect_wrong_route.py  # Main script for running the detection system
-- models/            # Pre-trained YOLO v8 models
-- ocr/               # OCR-related scripts and models
-- utils/             # Utility scripts
-- requirements.txt   # List of dependencies
-- README.md          # Project documentation
+- Video files/       - All datasets for testing
+- yolo/              - Pre-trained YOLO v8 models
+- ocr/               - OCR-related scripts and models
+- requirements.txt   - List of dependencies
+- README.md          - Project documentation
 
 ## Future Scope
 - Application of system in rural areas
