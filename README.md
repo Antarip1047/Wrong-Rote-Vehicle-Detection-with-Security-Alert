@@ -26,7 +26,7 @@ YOLO v8 Setup
 
 Follow the instructions to set up YOLO v8 from the [official repository](https://github.com/ultralytics)).
 
-### Project Structure
+## Project Structure
 
 wrong-route-vehicle-detection/
 - config.json        # Configuration file for system parameters
@@ -38,7 +38,7 @@ wrong-route-vehicle-detection/
 - README.md          # Project documentation
 
 
-### Acknowledgments
->YOLO v8
+## Acknowledgments
+- YOLO v8
 
->Tesseract OCR
+- Tesseract OCR
