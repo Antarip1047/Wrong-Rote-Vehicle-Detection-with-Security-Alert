@@ -16,7 +16,7 @@ Clone the Repository
 bash
 Copy code
 git clone https://github.com/Antarip1047/wrong-route-vehicle-detection-with-Security-Alert.git
-cd wrong-route-vehicle-with-Security-Alert
+cd wrong-route-vehicle-detection-with-Security-Alert
 Install Dependencies
 bash
 Copy code
@@ -41,7 +41,7 @@ Edit the config.json file to customize the alert system and detection parameters
 Project Structure
 bash
 Copy code
-wrong-route-vehicle-detection-with-Security-Alert/
+wrong-route-vehicle-detection/
 ├── config.json        # Configuration file for system parameters
 ├── detect_wrong_route.py  # Main script for running the detection system
 ├── models/            # Pre-trained YOLO v8 models
@@ -50,9 +50,6 @@ wrong-route-vehicle-detection-with-Security-Alert/
 ├── requirements.txt   # List of dependencies
 └── README.md          # Project documentation
 
-
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 Acknowledgments
 YOLO v8
