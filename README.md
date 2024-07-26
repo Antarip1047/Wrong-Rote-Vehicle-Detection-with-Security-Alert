@@ -23,7 +23,8 @@ cd wrong-route-vehicle-detection-with-Security-Alert
 
 pip install -r requirements.txt
 YOLO v8 Setup
-Follow the instructions to set up YOLO v8 from the official repository.
+
+Follow the instructions to set up YOLO v8 from the (https://github.com/ultralytics).
 
 Usage
 Running the Detection System
@@ -52,4 +53,5 @@ wrong-route-vehicle-detection/
 
 ### Acknowledgments
 >YOLO v8
+
 >Tesseract OCR
