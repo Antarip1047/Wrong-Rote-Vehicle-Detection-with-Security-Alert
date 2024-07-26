@@ -1,6 +1,7 @@
 # Wrong-Rote-Vehicle-Detection-with-Security-Alert
 
-Overview
+## Overview
+
 This project aims to enhance road safety by detecting vehicles taking wrong routes. It utilizes YOLO v8 for real-time vehicle detection and Optical Character Recognition (OCR) to read number plates. When a violation is detected, alerts are sent to the nearby traffic control room and the vehicle owner.
 
 Features
@@ -12,14 +13,14 @@ Prerequisites
 Python 3.7 or higher
 pip
 CUDA (if using GPU)
-Clone the Repository
-bash
-Copy code
+
+### Clone the Repository
+
 git clone https://github.com/Antarip1047/wrong-route-vehicle-detection-with-Security-Alert.git
 cd wrong-route-vehicle-detection-with-Security-Alert
-Install Dependencies
-bash
-Copy code
+
+### Install Dependencies
+
 pip install -r requirements.txt
 YOLO v8 Setup
 Follow the instructions to set up YOLO v8 from the official repository.
@@ -28,8 +29,7 @@ Usage
 Running the Detection System
 Start the detection script:
 
-bash
-Copy code
+
 python detect_wrong_route.py
 View results:
 
@@ -38,19 +38,18 @@ Alerts will be sent to the traffic control room and vehicle owner.
 Configuration
 Edit the config.json file to customize the alert system and detection parameters.
 
-Project Structure
-bash
-Copy code
+### Project Structure
+
 wrong-route-vehicle-detection/
-├── config.json        # Configuration file for system parameters
-├── detect_wrong_route.py  # Main script for running the detection system
-├── models/            # Pre-trained YOLO v8 models
-├── ocr/               # OCR-related scripts and models
-├── utils/             # Utility scripts
-├── requirements.txt   # List of dependencies
-└── README.md          # Project documentation
+- config.json        # Configuration file for system parameters
+- detect_wrong_route.py  # Main script for running the detection system
+- models/            # Pre-trained YOLO v8 models
+- ocr/               # OCR-related scripts and models
+- utils/             # Utility scripts
+- requirements.txt   # List of dependencies
+- README.md          # Project documentation
 
 
-Acknowledgments
-YOLO v8
-Tesseract OCR
+### Acknowledgments
+>YOLO v8
+>Tesseract OCR
