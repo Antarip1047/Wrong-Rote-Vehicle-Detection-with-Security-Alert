@@ -24,7 +24,7 @@ This project aims to enhance road safety by detecting vehicles taking wrong rout
 pip install -r requirements.txt
 YOLO v8 Setup
 
-Follow the instructions to set up YOLO v8 from the [official repository](https://github.com/ultralytics)).
+Follow the instructions to set up YOLO v8 from the [official repository](https://github.com/ultralytics).
 
 ## Project Structure
 
