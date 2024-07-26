@@ -19,7 +19,7 @@ This project aims to enhance road safety by detecting vehicles taking wrong rout
 
 ### Clone the Repository
 
-1. git clone https://github.com/Antarip1047/wrong-route-vehicle-detection-with-Security-Alert.git
+1. git clone https://github.com/Antarip1047/Wrong-Rote-Vehicle-Detection-with-Security-Alert
 - cd wrong-route-vehicle-detection-with-Security-Alert
 
 ### Install Dependencies
