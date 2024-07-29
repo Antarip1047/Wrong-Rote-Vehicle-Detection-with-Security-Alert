@@ -37,6 +37,8 @@ wrong-route-vehicle-detection/
 - ocr/               - OCR-related scripts and models
 - requirements.txt   - List of dependencies
 - README.md          - Project documentation
+- YOLO_VID_SHORT     - Demo video to show yolo application
+- ocr                - Demo image to show ocr application
 
 ## Future Scope
 - Application of system in rural areas
