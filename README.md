@@ -1,4 +1,4 @@
-# Wrong-Rote-Vehicle-Detection-with-Security-Alert
+# Wrong-Route-Vehicle-Detection-with-Security-Alert
 
 Wrong-way driving is one of the primary causes of traffic jams and road accidents. The accurate detection of wrong routes in real-time, combined with prompt security alerts, can significantly enhance safety measures.
 Our research introduces a solution leveraging You Only Look Once version 8 (YOLOv8) and centroid tracking algorithm, along with Optical Character Recognition (OCR) techniques, for real-time identification of wrong-way vehicles and generation of security alerts.
